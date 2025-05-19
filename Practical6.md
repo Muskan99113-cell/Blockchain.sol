@@ -75,7 +75,6 @@ Then click on Deploy...
 
 -Click the low-level fallback button — this triggers the receive() function
 
-![image](https://github.com/user-attachments/assets/4bc1a1e1-e87a-4573-ae95-4b948cc92316)
 ![image](https://github.com/user-attachments/assets/b3e414fa-15f1-4b05-bfc7-6a9a5df7211d)
 
 
@@ -85,6 +84,8 @@ Then click on Deploy...
 Use the account dropdown to select the recipient addresses and view their balances increasing.
 
 ![image](https://github.com/user-attachments/assets/9667f6b2-2ae6-4b51-9ed7-26507726f1c6)
+
+
 
 
 
