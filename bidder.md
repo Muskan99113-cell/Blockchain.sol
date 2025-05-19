@@ -118,7 +118,7 @@ contract TopDonors {
 
 ->Change to another account and place a higher bid
 
-![image](https://github.com/user-attachments/assets/29ec6084-4ebc-4840-abd5-5186b7015523)
+
 
 
 ### *Step 7: Test Withdrawals*
@@ -132,6 +132,8 @@ contract TopDonors {
 ### *Step 8: Declare Winner*
 
 ->Call getWinner() → Shows the winning bidder and bid amount
+
+![image](https://github.com/user-attachments/assets/18eb0b0f-91a3-466d-86c8-eeffb33f5382)
 
 
 
