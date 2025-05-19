@@ -68,8 +68,7 @@ contract StudentRecords {
 
 
 
-
-
+![image](https://github.com/user-attachments/assets/b6f70c40-3440-4c91-93b8-af9ec47be24f)
 
 
 
