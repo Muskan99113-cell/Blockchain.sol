@@ -3,6 +3,7 @@
 # *Blockchain Voting System*
 
 A simple voting system smart contract written in Solidity. Each Ethereum address can vote once for a candidate. Deployed and tested on Remix IDE.
+
 ![image](https://github.com/user-attachments/assets/ece07a07-5c9c-4553-9ffb-e4fe54887ba7)
 
 # Step 1:
@@ -14,6 +15,7 @@ Visit https://remix.ethereum.org
 # Step 2: Create a New Solidity File
 
 In the File Explorer (left side panel), click the "New File" icon.
+
 ![image](https://github.com/user-attachments/assets/5fe0bf15-0ecf-4bec-a08a-999de3342a4a)
 
 
@@ -69,6 +71,7 @@ contract VotingSystem {
         return (candidate.name, candidate.voteCount);
     }
 }
+
 ![WhatsApp Image 2025-05-19 at 14 29 16](https://github.com/user-attachments/assets/028ce02e-c1d3-4f7d-9f79-168a20d9419c)
 ![WhatsApp Image 2025-05-19 at 14 29 37](https://github.com/user-attachments/assets/5eaf7d3d-a419-44b8-9684-f3810aa84d14)
 
@@ -84,7 +87,7 @@ contract VotingSystem {
 
 ->Set Environment to:
 
-  Remix VM (London) — for testing locally.
+->Remix VM (London) — for testing locally.
  
 ->In the input box under the Deploy section.
 
