@@ -2,7 +2,8 @@
 
 ### *Step 1: Go to https://remix.ethereum.org*
 
-###*Step 2: Create a New File*
+### *Step 2: Create a New File*
+
 ![image](https://github.com/user-attachments/assets/d67495dc-c015-4901-bba0-a0590c93f4f9)
 
 
